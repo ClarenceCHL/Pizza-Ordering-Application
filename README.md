@@ -1,4 +1,6 @@
 # Pizza-Ordering-Application
+JavaFX SDK Version: JavaFX-SDK-11.0.2 (Couldn't upload the sdk folder due to the file size limitation on GitHub, please download the sdk from google)
+
 The goal of this project is to write an application, which runs on the Graphical User Interface, that functions as a complete pizza ordering system. Namely, the system includes pizza type selection, topping selection, and size selection.
 
 Pizza Types:
